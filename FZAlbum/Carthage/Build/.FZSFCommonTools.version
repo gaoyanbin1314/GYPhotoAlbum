@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.8.9",
+  "iOS" : [
+    {
+      "name" : "FZSFCommonTools",
+      "hash" : "db7759d8d7ee9f1a88611845826bcd300436339f252f867717cb59e506940c61"
+    }
+  ]
+}
